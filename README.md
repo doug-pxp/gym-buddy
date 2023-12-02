@@ -6,6 +6,7 @@ Project Description:
  it will be accessible on various devices through a web browser. A key feature of the application is its ability to work offline, providing users with continuous access to their workout data.
 
 Key Features and Capabilities:
+
 User Authentication: Secure login and registration for personalized user experience
 
 Workout Data Management: Users can add, view, modify, and delete their workout routines
